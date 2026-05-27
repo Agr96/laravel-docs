@@ -1,10 +1,10 @@
 # Laravel-Docs
 
 <!-- Barisan Badge Utama -->
-![Laravel](http://badgen.net)
-![Composer](http://badgen.net)
-![Windows](http://badgen.net)
-![CMD](http://badgen.net)
+![Laravel](http://badges.ws)
+![Composer](http://badges.ws)
+![Windows](http://badges.ws)
+![CMD](http://badges.ws)
 
 <h1>7.1.A</h1>
 <img src="PENGUMPULAN/7_1A.gif" alt="jalankan composer create-project laravel/laravel nama-project">
