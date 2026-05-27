@@ -1,3 +1,23 @@
 # Batalkan pengabaian (whitelist) untuk folder dan file ini
 !PENGUMPULAN/
-!README.md
+
+/node_modules
+/public/build
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.production
+.phpunit.result.cache
+homestead.json
+Homestead.yaml
+auth.json
+npm-debug.log
+yarn-error.log
+/.idea
+/.vscode
+
+# Khusus jika Anda ingin mengabaikan folder PENGUMPULAN di Git utama
+# /PENGUMPULAN
+
