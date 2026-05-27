@@ -1,10 +1,10 @@
 # Laravel-Docs
 
 <!-- Barisan Badge Utama -->
-![Laravel](https://shields.io)
-![Composer](https://shields.io)
-![Windows](https://shields.io)
-![CMD](https://shields.io)
+![Laravel](http://badgen.net)
+![Composer](http://badgen.net)
+![Windows](http://badgen.net)
+![CMD](http://badgen.net)
 
 <h1>7.1.A</h1>
 <img src="PENGUMPULAN/7_1A.gif" alt="jalankan composer create-project laravel/laravel nama-project">
